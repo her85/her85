@@ -15,16 +15,10 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, seguras 
 ---
 
 ### 🎓 Formación Académica
-* [cite_start]**Licenciatura en Informática** - Universidad Nacional del Oeste (En curso)[cite: 28, 29].
-* [cite_start]**Tecnicatura en Tecnologías Web** - Universidad Nacional del Oeste[cite: 25, 26].
-
----
-
-### 📈 Estadísticas de GitHub
-![Estadísticas de Hernan](https://github-readme-stats.vercel.app/api?username=her85&show_icons=true&theme=radical&hide_border=true)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=her85&layout=compact&theme=radical&hide_border=true)
+**Licenciatura en Informática** - Universidad Nacional del Oeste (En curso).
+**Tecnicatura en Tecnologías Web** - Universidad Nacional del Oeste.
 
 ---
 
 ### 📫 Contacto e Información
-* [cite_start]**LinkedIn:** [linkedin.com/in/hernan-botto](https://www.linkedin.com/in/hernan-botto) [cite: 3]
+**LinkedIn:** [linkedin.com/in/hernan-botto](https://www.linkedin.com/in/hernan-botto)
