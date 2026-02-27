@@ -21,5 +21,5 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, seguras 
 
 ---
 
-### 📫 Contacto e Información
+### 📫 Información
 **LinkedIn:** [linkedin.com/in/hernan-botto](https://www.linkedin.com/in/hernan-botto)
