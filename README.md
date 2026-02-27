@@ -16,6 +16,7 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, seguras 
 
 ### 🎓 Formación Académica
 **Licenciatura en Informática** - Universidad Nacional del Oeste (En curso).
+
 **Tecnicatura en Tecnologías Web** - Universidad Nacional del Oeste.
 
 ---
