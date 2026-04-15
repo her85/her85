@@ -21,7 +21,7 @@ Soy un desarrollador enfocado en la creación de soluciones escalables, seguras 
 
 ---
 
-### 📫 Información
-**LinkedIn:** <a href="https://www.linkedin.com/in/hernan-botto" target="_blank" rel="noopener noreferrer">linkedin.com/in/hernan-botto</a>
+### 📫 Contacto
+**LinkedIn:** [linkedin.com/in/hernan-botto](https://www.linkedin.com/in/hernan-botto)
 
-**Portfolio:** <a href="https://portfolio-site-c5jt.onrender.com" target="_blank" rel="noopener noreferrer">portfolio-site-c5jt.onrender.com</a>
+**Portfolio:** [Ir al sitio oficial](https://portfolio-site-c5jt.onrender.com)
