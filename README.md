@@ -1,6 +1,6 @@
 # Hola, soy Hernan Botto 👋
 
-### **Analista Funcional IT & BI | Insurtech |**
+### **Analista Funcional**
 
 Me especializo en traducir procesos operativos complejos del negocio asegurador en soluciones tecnológicas concretas: digitalización de flujos, dashboards de siniestralidad y automatización de reportes. Actúo como puente entre el área de negocio y la tecnología — entiendo el problema antes de proponer la solución.
 
