@@ -1,6 +1,6 @@
 # ¡Hola! Soy Hernán Botto 👋
 
-Soy **Analista Funcional** con más de 12 años de experiencia en el sector asegurador, gestión de procesos operativos y transformación digital[cite: 1]. Actualmente me desempeño como el nexo estratégico entre clientes externos, áreas de negocio y equipos técnicos, integrando el área funcional[cite: 1].
+Soy **Analista Funcional** con más de 12 años de experiencia en el sector asegurador, gestión de procesos operativos y transformación digital. Actualmente me desempeño como el nexo estratégico entre clientes externos, áreas de negocio y equipos técnicos, integrando el área funcional.
 
 Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestros con habilidades técnicas en bases de datos, desarrollo y análisis de datos.
 
@@ -15,18 +15,18 @@ Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestro
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Dominio de Negocio**
-![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 ![Análisis Funcional](https://img.shields.io/badge/Análisis_Funcional-6C3483?style=for-the-badge&logoColor=white)
 ![Transformación Digital](https://img.shields.io/badge/Transformación_Digital-1D9E75?style=for-the-badge&logoColor=white)
+![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 
 ---
 
-### 💡 Áreas de Expertise
+### 💡 Areas de Experiencia
 
-- 📋 **Relevamiento funcional** — Traduzco necesidades operativas y de negocio en requerimientos técnicos claros[cite: 1].
-- 🔗 **Integraciones** — Diseño y consumo de APIs entre sistemas para centralizar la información[cite: 1].
-- 📊 **Optimización de procesos** — Automatización de reportes y mejora continua en la gestión de siniestros automotores[cite: 1, 2].
-- 🎓 **Capacitación** — Acompaño a usuarios finales y equipos operativos en la adopción de nuevas herramientas digitales[cite: 1].
+- 📋 **Relevamiento funcional** — Traduzco necesidades operativas y de negocio en requerimientos técnicos claros.
+- 🔗 **Integraciones** — Diseño y consumo de APIs entre sistemas para centralizar la información.
+- 📊 **Optimización de procesos** — Automatización de reportes y mejora continua en la gestión de siniestros automotores.
+- 🎓 **Capacitación** — Acompaño a usuarios finales y equipos operativos en la adopción de nuevas herramientas digitales.
 
 ---
 
