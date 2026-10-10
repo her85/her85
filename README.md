@@ -1,40 +1,36 @@
-# Hola, soy Hernan Botto 👋
+# ¡Hola! Soy Hernán Botto 👋
 
-### **Analista Funcional**
+Soy **Analista Funcional** con más de 12 años de experiencia en el sector asegurador, gestión de procesos operativos y transformación digital[cite: 1]. Actualmente me desempeño como el nexo estratégico entre clientes externos, áreas de negocio y equipos técnicos, integrando el área funcional[cite: 1].
 
-Me especializo en traducir procesos operativos complejos del negocio asegurador en soluciones tecnológicas concretas: digitalización de flujos, dashboards de siniestralidad y automatización de reportes. Actúo como puente entre el área de negocio y la tecnología — entiendo el problema antes de proponer la solución.
+Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestros con habilidades técnicas en bases de datos, desarrollo y análisis de datos.
 
 ---
 
-### 🛠️ Stack Tecnológico
- 
-**BI & Datos**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
-**Frontend & Backend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 🛠️ Stack Tecnológico & Habilidades
+
+**Bases de Datos & Backend**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- 
-**Dominio de negocio**
-![Insurtech](https://img.shields.io/badge/Insurtech-1D9E75?style=for-the-badge&logoColor=white)
-![Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
+
+**Dominio de Negocio**
+![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 ![Análisis Funcional](https://img.shields.io/badge/Análisis_Funcional-6C3483?style=for-the-badge&logoColor=white)
- 
+![Transformación Digital](https://img.shields.io/badge/Transformación_Digital-1D9E75?style=for-the-badge&logoColor=white)
+
 ---
 
-- 📋 **Relevamiento funcional** — traduzco necesidades operativas en requerimientos técnicos
-- 📊 **Dashboards de siniestralidad** — Power BI + SQL para ver dónde se gana o se pierde
-- 🔗 **Integraciones** — APIs REST entre sistemas internos y aseguradoras
-- 🎓 **Capacitación** — acompaño a peritos y administrativos en la adopción de herramientas digitales
+### 💡 Áreas de Expertise
+
+- 📋 **Relevamiento funcional** — Traduzco necesidades operativas y de negocio en requerimientos técnicos claros[cite: 1].
+- 🔗 **Integraciones** — Diseño y consumo de APIs entre sistemas para centralizar la información[cite: 1].
+- 📊 **Optimización de procesos** — Automatización de reportes y mejora continua en la gestión de siniestros automotores[cite: 1, 2].
+- 🎓 **Capacitación** — Acompaño a usuarios finales y equipos operativos en la adopción de nuevas herramientas digitales[cite: 1].
+
 ---
- 
+
 ### 🎓 Formación Académica
- 
-**Licenciatura en Informática** — Universidad Nacional del Oeste *(en curso, 2026)*
  
 **Tecnicatura en Tecnologías Web** — Universidad Nacional del Oeste *(2022–2025)*
  
