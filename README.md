@@ -6,18 +6,18 @@ Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestro
 
 ---
 
-### 🛠️ Stack Tecnológico & Habilidades
+### 🛠️ Habilidades y Conocimientos
+
+**Dominio de Negocio**
+![Análisis Funcional](https://img.shields.io/badge/Análisis_Funcional-6C3483?style=for-the-badge&logoColor=white)
+![Transformación Digital](https://img.shields.io/badge/Transformación_Digital-1D9E75?style=for-the-badge&logoColor=white)
+![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 
 **Bases de Datos & Backend**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Dominio de Negocio**
-![Análisis Funcional](https://img.shields.io/badge/Análisis_Funcional-6C3483?style=for-the-badge&logoColor=white)
-![Transformación Digital](https://img.shields.io/badge/Transformación_Digital-1D9E75?style=for-the-badge&logoColor=white)
-![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 
 ---
 
