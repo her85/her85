@@ -11,7 +11,7 @@ Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestro
 **Dominio de Negocio**
 ![Análisis Funcional](https://img.shields.io/badge/Análisis_Funcional-6C3483?style=for-the-badge&logoColor=white)
 ![Transformación Digital](https://img.shields.io/badge/Transformación_Digital-1D9E75?style=for-the-badge&logoColor=white)
-![Seguros & Siniestros](https://img.shields.io/badge/Gestión_de_Siniestros-2C3E50?style=for-the-badge&logoColor=white)
+![Seguros & Siniestros](https://img.shields.io/badge/Seguros-Siniestros-2C3E50?style=for-the-badge&logoColor=white)
 
 **Bases de Datos & Backend & Frontend**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
