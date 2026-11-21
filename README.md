@@ -1,6 +1,6 @@
 # ¡Hola! Soy Hernán Botto 👋
 
-Soy **Analista Funcional** con más de 12 años de experiencia en el sector asegurador, gestión de procesos operativos y transformación digital. Actualmente me desempeño como el nexo estratégico entre clientes externos, áreas de negocio y equipos técnicos, integrando el área funcional.
+Soy **Analista Tecnico Funcional** con más de 12 años de experiencia en el sector asegurador, gestión de procesos operativos y transformación digital. Actualmente me desempeño como el nexo estratégico entre clientes externos, áreas de negocio y equipos técnicos, integrando el área funcional.
 
 Mi enfoque combina una profunda experiencia en el negocio de seguros y siniestros con habilidades técnicas en bases de datos, desarrollo y análisis de datos.
 
